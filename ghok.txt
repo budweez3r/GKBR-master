@@ -1,0 +1,225 @@
+----
+
+starthook tunertablet
+
+
+
+endhook tunertablet
+
+
+---
+starthook C_WarehouseHeist
+
+
+
+endhook C_WarehouseHeist
+
+------
+
+starthook mf_crafting
+
+
+
+endhook mf_crafting
+
+------
+
+starthook MF_Housing
+
+
+
+
+endhook MF_Housing
+
+---
+
+starthook mf_furnicatalogue
+
+
+endhook mf_furnicatalogue
+
+---
+
+starthook DLRP_StressSystem
+
+
+
+endhook DLRP_StressSystem
+
+----
+
+starthook DLRP_HomeInvasion
+
+
+endhook DLRP_HomeInvasion
+
+---
+
+starthook DLRP_PawnShop
+
+
+
+
+endhook DLRP_PawnShop
+
+---
+
+starthook mf_tuner
+
+
+endhook mf_tuner
+
+---
+
+starthook MF_DopePlant
+
+
+
+endhook MF_DopePlant
+
+---
+
+starthook esx_policemdt
+
+
+
+endhook esx_policemdt
+
+---
+
+starthook MF_Status
+
+
+
+endhook MF_Status
+
+---
+
+starthook MF_DnaTracker
+
+
+
+endhook MF_DnaTracker
+
+---
+
+starthook MF_MobileMeth
+
+
+endhook MF_MobileMeth
+
+---
+
+starthook DLRP_PersonalSafes
+
+
+
+endhook DLRP_PersonalSafes
+
+---
+
+starthook DLRP_PurgeEvent
+
+
+
+endhook DLRP_PurgeEvent
+
+---
+
+starthook esx_PurgeEvent
+
+
+
+endhook esx_PurgeEvent
+
+---
+
+starthook DLRP_ObjectSpawner
+
+
+
+endhook DLRP_ObjectSpawner
+
+---
+
+starthook DLRP_TrackableNotification
+
+
+
+endhook DLRP_TrackableNotification
+
+---
+
+starthook DLRP_BoxingEvent
+
+
+
+endhook DLRP_BoxingEvent
+
+---
+
+starthook DLRP_UsedVehSales
+
+
+
+endhook DLRP_UsedVehSales
+
+---
+
+starthook MF_SafeCracker
+
+127.0.0.1
+
+
+endhook MF_SafeCracker
+
+---
+
+starthook DLRP_LockPick
+
+
+
+endhook DLRP_LockPick
+
+---
+
+starthook DLRP_FleecaHeist
+
+
+
+endhook DLRP_FleecaHeist
+
+---
+
+starthook MF_Vangelico
+
+127.0.0.1
+
+
+endhook MF_Vangelico
+
+---
+
+starthook DLRP_NPCDrugSales
+
+
+
+endhook DLRP_NPCDrugSales
+
+---
+
+starthook DLRP_PacificHeist
+
+
+
+endhook DLRP_PacificHeist
+
+---
+
+starthook DLRP_SkeletalSystem
+
+
+
+endhook DLRP_SkeletalSystem
+
+---
